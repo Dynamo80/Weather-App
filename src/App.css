@@ -1,0 +1,10 @@
+* {
+  text-align: center;
+  background-color: darkblue;
+  color: white;
+}
+input{
+  margin: 10px;
+  padding: 10px;
+  text-align: left;
+}
