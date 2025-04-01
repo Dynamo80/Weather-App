@@ -12,4 +12,4 @@ This is a simple Weather App built using React.js as part of my journey to relea
 
 - React.js  
 - HTML & CSS  
-- OpenWeatherMap API (or any other weather API)
+- OpenWeatherMap API
